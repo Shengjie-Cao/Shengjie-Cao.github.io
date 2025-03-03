@@ -28,6 +28,16 @@
         - Bachelor's degree thesis - Design of High-density Computing-in-Memory with Ferroelectric Tunnel Junction
         - Advisor - <a href="https://nics.ee.tsinghua.edu.cn/people/Xueqing/">Prof. Xueqing Li</a>
 
+- title: Representative Works
+  type: time_table
+  contents:
+    - items: '"Hafnia-based XP-FeRAM: A Novel High-speed and Low-power Cross-point Ferroelectric Memory for Data-intensive Applications", IEEE EDTM (Invited)'
+      year: Mar 2025
+    - items: "Comprehensive Performance Re-assessment of Hafnia-based Cross-point FeRAM with Ultra-fast and Low-power Operation from Device/Array Perspective", IEEE IEDM
+      year: Dec 2024
+    - items: "First Demonstration of Hafnia-based Selector-Free FeRAM with High Disturb Immunity through Design Technology Co-Optimization", IEEE IEDM (Co-first author)
+      year: Dec 2023
+
 - title: Experience
   type: time_table
   contents:
@@ -36,16 +46,6 @@
       year: 2021
       description:
         - Computer Vision
-
-- title: Publications
-  type: time_table
-  contents:
-    - items: '"Hafnia-based XP-FeRAM: A Novel High-speed and Low-power Cross-point Ferroelectric Memory for Data-intensive Applications", IEEE EDTM (Invited)'
-      year: Mar 2025
-    - items: Comprehensive Performance Re-assessment of Hafnia-based Cross-point FeRAM with Ultra-fast and Low-power Operation from Device/Array Perspective, IEEE IEDM
-      year: Dec 2024
-    - items: First Demonstration of Hafnia-based Selector-Free FeRAM with High Disturb Immunity through Design Technology Co-Optimization, IEEE IEDM (Co-first author)
-      year: Dec 2023
 
 #- title: Honors and Awards
  # type: time_table
