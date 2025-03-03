@@ -29,5 +29,5 @@ latest_posts:
 
 I am currently a third year Ph.D candidate at PKU-IC, working at Ultra-Low-Power Logic and Memory Devices Group advised by [Prof. Qianqian Huang](http://scholar.pku.edu.cn/qianqianhuang). My research focuses on ferroelectric memories and circuit designs, especially ferroelectric random-access memory.
 
-I received my B.Eng. degree in the Department of Electronic Engineering from Tsinghua University in 2022, working on the neuromorphic computing based on emerging devices advised by [Prof. Xueqing Li](https://nics.ee.tsinghua.edu.cn/people/Xueqing/).
+I received my B.Eng. degree in Electronic Engineering from Tsinghua University in 2022, working on the neuromorphic computing based on emerging devices advised by [Prof. Xueqing Li](https://nics.ee.tsinghua.edu.cn/people/Xueqing/).
 
