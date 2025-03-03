@@ -58,10 +58,10 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-coauthored-paper-entitled-first-demonstration-of-hafnia-based-selector-free-feram-with-high-disturb-immunity-through-design-technology-co-optimization-accepted-by-iedm-2023",
-          title: 'Coauthored paper entitled ‘First Demonstration of Hafnia-based Selector-Free FeRAM with High Disturb Immunity...',
+          title: 'Coauthored paper entitled “First Demonstration of Hafnia-based Selector-Free FeRAM with High Disturb Immunity...',
           description: "",
           section: "News",},{id: "news-paper-entitled-comprehensive-performance-re-assessment-of-hafnia-based-cross-point-feram-with-ultra-fast-and-low-power-operation-from-device-array-perspective-accepted-by-iedm-2024",
-          title: 'Paper entitled ‘Comprehensive Performance Re-assessment of Hafnia-based Cross-point FeRAM with Ultra-fast and Low-power...',
+          title: 'Paper entitled “Comprehensive Performance Re-assessment of Hafnia-based Cross-point FeRAM with Ultra-fast and Low-power...',
           description: "",
           section: "News",},{id: "news-paper-entitled-hafnia-based-xp-feram-a-novel-high-speed-and-low-power-cross-point-ferroelectric-memory-for-data-intensive-applications-accepted-by-edtm-2025",
           title: 'Paper entitled “Hafnia-based XP-FeRAM: A Novel High-speed and Low-power Cross-point Ferroelectric Memory for...',
