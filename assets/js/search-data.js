@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-shengjie-cao",
+          title: "Shengjie Cao",
           description: "",
           section: "Navigation",
           handler: () => {
