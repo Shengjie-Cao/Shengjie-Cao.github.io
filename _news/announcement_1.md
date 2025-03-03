@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Coauthored paper entitled 'First Demonstration of Hafnia-based Selector-Free FeRAM with High Disturb Immunity through Design Technology Co-Optimization' accepted by IEDM'2023.
+Coauthored paper entitled "First Demonstration of Hafnia-based Selector-Free FeRAM with High Disturb Immunity through Design Technology Co-Optimization" accepted by IEDM'2023.
