@@ -66,13 +66,13 @@ ninja.data = [{
           section: "News",},{id: "news-paper-entitled-hafnia-based-xp-feram-a-novel-high-speed-and-low-power-cross-point-ferroelectric-memory-for-data-intensive-applications-accepted-by-edtm-2025",
           title: 'Paper entitled “Hafnia-based XP-FeRAM: A Novel High-speed and Low-power Cross-point Ferroelectric Memory for...',
           description: "",
-          section: "News",},{id: "projects-hafnia-feram-design-based-on-cross-point-memory-architecture",
-          title: 'Hafnia FeRAM Design based on Cross-point Memory Architecture',
+          section: "News",},{id: "projects-hafnia-based-feram-with-cross-point-memory-architecture",
+          title: 'Hafnia-based FeRAM with Cross-point Memory Architecture',
           description: "A novel high-speed, high-density and low-power memory design for data-intensive applications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-high-density-and-multi-functional-storage-system",
+          title: 'High-density and Multi-functional Storage System',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
