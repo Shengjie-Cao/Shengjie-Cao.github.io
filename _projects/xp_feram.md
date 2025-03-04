@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hafnia-based FeRAM with Cross-point Memory Architecture
-description: A novel high-speed, high-density and low-power memory design for data-intensive applications
+title: Hafnia-based XP-FeRAM
+description: A novel high-speed, high-density and low-power memory design for data-intensive applications based on cross-point architecture
 img: assets/img/12.jpg
 importance: 1
 category: In progress
