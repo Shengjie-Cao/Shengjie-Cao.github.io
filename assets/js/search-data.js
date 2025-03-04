@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "Research",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -66,9 +66,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-entitled-hafnia-based-xp-feram-a-novel-high-speed-and-low-power-cross-point-ferroelectric-memory-for-data-intensive-applications-accepted-by-edtm-2025",
           title: 'Paper entitled “Hafnia-based XP-FeRAM: A Novel High-speed and Low-power Cross-point Ferroelectric Memory for...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-hafnia-feram-design-based-on-cross-point-memory-architecture",
+          title: 'Hafnia FeRAM Design based on Cross-point Memory Architecture',
+          description: "A novel high-speed, high-density and low-power memory design for data-intensive applications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
