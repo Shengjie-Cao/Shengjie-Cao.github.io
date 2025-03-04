@@ -66,17 +66,7 @@ ninja.data = [{
           section: "News",},{id: "news-paper-entitled-hafnia-based-xp-feram-a-novel-high-speed-and-low-power-cross-point-ferroelectric-memory-for-data-intensive-applications-accepted-by-edtm-2025",
           title: 'Paper entitled “Hafnia-based XP-FeRAM: A Novel High-speed and Low-power Cross-point Ferroelectric Memory for...',
           description: "",
-          section: "News",},{id: "projects-hafnia-based-feram-with-cross-point-memory-architecture",
-          title: 'Hafnia-based FeRAM with Cross-point Memory Architecture',
-          description: "A novel high-speed, high-density and low-power memory design for data-intensive applications",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-high-density-and-multi-functional-storage-system",
-          title: 'High-density and Multi-functional Storage System',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
+          section: "News",},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
@@ -111,6 +101,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-multi-functional-storage-system",
+          title: 'Multi-functional Storage System',
+          description: "Coming soon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ces/";
+            },},{id: "projects-hafnia-based-xp-feram",
+          title: 'Hafnia-based XP-FeRAM',
+          description: "A novel high-speed, high-density and low-power memory design for data-intensive applications based on cross-point architecture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/xp_feram/";
             },},{
         id: 'social-email',
         title: 'email',
