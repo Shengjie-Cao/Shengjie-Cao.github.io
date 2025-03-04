@@ -11,7 +11,8 @@ layout: default
         {% else %}
           {{ site.title }}
         {% endif %}
-        {% if page.profile %}
+      </h1>
+      {% if page.profile %}
         <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if page.profile.image %}
             {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
@@ -33,7 +34,6 @@ layout: default
           {% endif %}
         </div>
       {% endif %}
-      </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
