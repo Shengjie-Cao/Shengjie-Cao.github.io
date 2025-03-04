@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <b>Research</b>
-permalink: /Research/
+permalink: /projects/
 description: A growing collection of your cool projects.
 nav: false
 nav_order: 3
