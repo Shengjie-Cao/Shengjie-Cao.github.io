@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Integrated Micro-Nano Electronics Building</p>
+    <p>Micro&Nanoelectronics Building</p>
     <p>5 Yiheyuan Road</p>
     <p>Beijing, China 100871</p>
 
