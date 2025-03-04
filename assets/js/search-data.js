@@ -3,28 +3,28 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-b-about-b",
-    title: "<b>About</b>",
+    id: "nav-about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-lt-b-gt-publications-lt-b-gt",
-          title: "&lt;b&gt;Publications&lt;/b&gt;",
+  },{id: "nav-publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-lt-b-gt-research-lt-b-gt",
-          title: "&lt;b&gt;Research&lt;/b&gt;",
+        },{id: "nav-research",
+          title: "Research",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-lt-b-gt-cv-lt-b-gt",
-          title: "&lt;b&gt;cv&lt;/b&gt;",
+        },{id: "nav-cv",
+          title: "cv",
           description: "",
           section: "Navigation",
           handler: () => {
