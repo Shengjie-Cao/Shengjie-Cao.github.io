@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Hafnia FeRAM Design based on Cross-point Memory Architecture
+description: A novel high-speed, high-density and low-power memory design for data-intensive applications
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: in progress
 related_publications: true
 ---
 
