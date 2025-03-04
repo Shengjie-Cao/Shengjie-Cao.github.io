@@ -2,10 +2,10 @@
 layout: page
 title: Hafnia-based XP-FeRAM
 description: A novel high-speed, high-density and low-power memory design for data-intensive applications based on cross-point architecture
-img: assets/img/12.jpg
+img: assets/img/research/xp_feram/xp_feram_cover.jpg
 importance: 1
 category: In progress
-related_publications: true
+related_publications: cao2024comprehensive, fu2024hafnia, fu2023first
 ---
 
 Every project has a beautiful feature showcase page.

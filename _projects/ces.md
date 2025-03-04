@@ -2,10 +2,10 @@
 layout: page
 title: Multi-functional Storage System
 description: Coming soon
-img: assets/img/3.jpg
+img: assets/img/research/ces_system/ces_cover.jpg
 importance: 2
 category: In progress
-giscus_comments: true
+related_publications: true
 ---
 
 COMING SOON...
