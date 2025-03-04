@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: School of Integrated Circuits <br> Peking  University
 
@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Integrated Micro-Nano Electronics Building</p>
+    <p>Micro&Nanoelectronics Building</p>
     <p>5 Yiheyuan Road</p>
     <p>Beijing, China 100871</p>
 
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a third year Ph.D candidate at PKU-IC, working at Ultra-Low-Power Logic and Memory Devices Group advised by [Prof. Qianqian Huang](http://scholar.pku.edu.cn/qianqianhuang). My research focuses on ferroelectric memories and circuit designs, especially ferroelectric random-access memory.
+<span style="font-size: 20px">I am currently a third year Ph.D candidate at PKU-IC, working at the Ultra-Low-Power Logic and Memory Group advised by [Prof. Qianqian Huang](http://scholar.pku.edu.cn/qianqianhuang). My research focuses on novel memory and storage system designs, ferroelectric-based computing-in-memory accelerations.</span>
 
-I received my B.Eng. degree in Electronic Engineering from Tsinghua University in 2022, working on the neuromorphic computing based on emerging devices advised by [Prof. Xueqing Li](https://nics.ee.tsinghua.edu.cn/people/Xueqing/).
+<span style="font-size: 20px">I received my B.Eng. degree in Electronic Engineering from Tsinghua University in 2022, working on the neuromorphic computing based on emerging devices advised by [Prof. Xueqing Li](https://nics.ee.tsinghua.edu.cn/people/Xueqing/).</span>
 
