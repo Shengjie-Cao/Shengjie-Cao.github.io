@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <b>About</b>
+title: About
 permalink: /
 subtitle: School of Integrated Circuits <br> Peking  University
 
