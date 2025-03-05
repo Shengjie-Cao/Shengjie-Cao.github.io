@@ -75,7 +75,7 @@ ninja.data = [{
           title: 'SRT Program',
           description: "Student research training",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/tcam/";
+              window.location.href = "/projects/srt/";
             },},{id: "projects-hafnia-based-xp-feram",
           title: 'Hafnia-based XP-FeRAM',
           description: "A novel high-speed, high-density and low-power memory design for data-intensive applications based on cross-point architecture",
