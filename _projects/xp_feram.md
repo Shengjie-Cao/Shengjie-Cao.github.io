@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Hafnia-based XP-FeRAM
-description: A novel high-speed, high-density and low-power memory design for data-intensive applications based on cross-point architecture
+description: >
+<p>A novel high-speed, high-density and low-power memory design for data-intensive applications based on cross-point architecture</p>
+<p>Advisor - <a href="http://scholar.pku.edu.cn/qianqianhuang">Prof. Qianqian Huang</a>; Mentor - <a href="https://ic.seu.edu.cn/fzy/main.htm">Prof.Zhiyuan Fu</a></p>
 img: assets/img/research/xp_feram/xp_feram_cover.jpg
 importance: 1
 category: In progress
