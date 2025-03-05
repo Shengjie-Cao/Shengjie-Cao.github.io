@@ -71,14 +71,14 @@ ninja.data = [{
           description: "Reconfigurable compression and encryption storage system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ces/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-srt-program",
+          title: 'SRT Program',
+          description: "Undergraduate student research training (Advisor - Prof. Xueqing Li; Mentor - Hongtao Zhong)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/srt/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-hafnia-based-xp-feram",
+          title: 'Hafnia-based XP-FeRAM',
+          description: "A novel high-speed, high-density and low-power memory design for data-intensive applications based on cross-point architecture (Advisor - Prof. Qianqian Huang; Mentor - Prof.Zhiyuan Fu)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xp_feram/";
             },},{
