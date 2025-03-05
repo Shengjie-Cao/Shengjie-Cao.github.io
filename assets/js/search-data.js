@@ -57,7 +57,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-co-authored-paper-has-been-accepted-by-iedm-2023-collaborated-with-zhiyuan-fu",
+            },},{id: "news-graduated-from-tsinghua-university-and-achieved-bachelor-s-degree-in-electronics-engineering",
+          title: 'Graduated from Tsinghua University and achieved Bachelor’s degree in Electronics Engineering.',
+          description: "",
+          section: "News",},{id: "news-enrolled-in-peking-university-to-pursue-doctoral-degree-in-integrated-circuits",
+          title: 'Enrolled in Peking University to pursue doctoral degree in Integrated Circuits.',
+          description: "",
+          section: "News",},{id: "news-one-co-authored-paper-has-been-accepted-by-iedm-2023-collaborated-with-zhiyuan-fu",
           title: 'One co-authored paper has been accepted by IEDM 2023 (collaborated with Zhiyuan Fu)....',
           description: "",
           section: "News",},{id: "news-one-involved-paper-has-been-accepted-in-ieee-ted-2024",
