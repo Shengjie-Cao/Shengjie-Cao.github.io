@@ -21,8 +21,9 @@ With the fast development of artificial intelligence and data-centric computing 
     Hafnia-based FE capacitor cross-point array structure and applications.
 </div>
 
+## Contribution 1: 
 
-## 
+## Contribution 2: 
 
 ## Results
 
