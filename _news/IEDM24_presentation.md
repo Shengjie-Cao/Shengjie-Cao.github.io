@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A presentation has been given at the IEDM, in San Fransisco, USA.
+A presentation has been given at the IEDM conference, in San Fransisco, USA.

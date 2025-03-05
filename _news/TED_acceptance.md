@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One <b>involved</b>b> paper has been accepted in <b>IEEE TED 2024</b>.
+One involved paper has been accepted in <b>IEEE TED 2024</b>.

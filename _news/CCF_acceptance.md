@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One <b>authored</b>b> poster has been accepted in <b>CCF Storage Conference 2024</b>.
+One <b>authored</b> poster has been accepted by <b>CCF Storage Conference 2024</b>.
