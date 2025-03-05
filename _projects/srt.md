@@ -1,9 +1,7 @@
 ---
 layout: page
 title: SRT Program
-description: >
-<p>Undergraduate student research training</p>
-<p>Advisor - <a href="https://nics.ee.tsinghua.edu.cn/people/Xueqing/">Prof. Xueqing Li</a>; Mentor - Hongtao Zhong</a></p>
+description: Undergraduate student research training (Advisor - Prof. Xueqing Li; Mentor - Hongtao Zhong)
 img: assets/img/research/srt/srt_cover.jpg
 importance: 3
 category: Done
