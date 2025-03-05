@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SRT Program
-description: Student research training
+description: Undergraduate student research training
 img: assets/img/research/srt/srt_cover.jpg
 importance: 3
 category: Done
