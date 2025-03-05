@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One <b>authored</b>b> paper has been accepted by <b>IEDM 2024</b>.
+One <b>authored</b> paper has been accepted by <b>IEDM 2024</b>.
