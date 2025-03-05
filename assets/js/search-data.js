@@ -57,8 +57,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-co-authored-paper-has-been-accepted-by-iedm-2023",
-          title: 'One co-authored paper has been accepted by IEDM 2023.',
+            },},{id: "news-one-co-authored-paper-has-been-accepted-by-iedm-2023-collaborated-with-zhiyuan-fu",
+          title: 'One co-authored paper has been accepted by IEDM 2023 (collaborated with Zhiyuan Fu)....',
           description: "",
           section: "News",},{id: "news-one-involvedb-amp-gt-paper-has-been-accepted-in-ieee-ted-2024",
           title: 'One involvedb&amp;amp;gt; paper has been accepted in IEEE TED 2024.',
@@ -66,8 +66,8 @@ ninja.data = [{
           section: "News",},{id: "news-one-authored-paper-has-been-accepted-by-iedm-2024",
           title: 'One authored paper has been accepted by IEDM 2024.',
           description: "",
-          section: "News",},{id: "news-a-presentation-on-comprehensive-performance-re-assessment-of-hafnia-based-cross-point-feram-with-ultra-fast-and-low-power-operation-from-device-array-perspective-has-been-delivered-at-the-iedm-in-san-fransisco-usa",
-          title: 'A presentation on ‘Comprehensive Performance Re-assessment of Hafnia-based Cross-point FeRAM with Ultra-fast and...',
+          section: "News",},{id: "news-a-presentation-has-been-given-at-the-iedm-in-san-fransisco-usa",
+          title: 'A presentation has been given at the IEDM, in San Fransisco, USA.',
           description: "",
           section: "News",},{id: "news-one-authored-and-two-involved-papers-have-been-accepted-by-edtm-2025",
           title: 'One authored and two involved papers have been accepted by EDTM 2025.',
