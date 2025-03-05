@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A presentation on 'Comprehensive Performance Re-assessment of Hafnia-based Cross-point FeRAM with Ultra-fast and Low-power Operation from Device/Array Perspective' has been delivered at the IEDM, in San Fransisco, USA.
+A presentation has been given at the IEDM, in San Fransisco, USA.
