@@ -68,12 +68,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-multi-functional-storage-system",
           title: 'Multi-functional Storage System',
-          description: "Coming soon",
+          description: "Reconfigurable compression and encryption storage system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ces/";
             },},{id: "projects-srt-program",
           title: 'SRT Program',
-          description: "Student research training",
+          description: "Undergraduate student research training",
           section: "Projects",handler: () => {
               window.location.href = "/projects/srt/";
             },},{id: "projects-hafnia-based-xp-feram",
