@@ -1,12 +1,12 @@
-#- title: General Information
- # type: map
-  #  contents:
-    # - name: Full Name
-     # value: Shengjie Cao
-    # - name: Email
-     # value: csj@stu.pku.edu.cn
-    # - name: Languages
-     # value: English, German
+- title: Basics
+  type: map
+  contents:
+    - name: Name
+      value: Shengjie Cao (曹胜杰)
+    - name: Contact
+      value: csj@stu.pku.edu.cn
+    - name: Languages
+      value: Chinese(native speaker), English(fluent)
 
 - title: Education
   type: time_table
