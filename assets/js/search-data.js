@@ -57,8 +57,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-graduated-from-tsinghua-university-and-achieved-bachelor-s-degree-in-electronics-engineering",
-          title: 'Graduated from Tsinghua University and achieved Bachelor’s degree in Electronics Engineering.',
+            },},{id: "news-i-was-born",
+          title: 'I was born.',
+          description: "",
+          section: "News",},{id: "news-graduated-from-tsinghua-university-and-received-bachelor-s-degree-in-electronics-engineering",
+          title: 'Graduated from Tsinghua University and received Bachelor’s degree in Electronics Engineering.',
           description: "",
           section: "News",},{id: "news-enrolled-in-peking-university-to-pursue-doctoral-degree-in-integrated-circuits",
           title: 'Enrolled in Peking University to pursue doctoral degree in Integrated Circuits.',
