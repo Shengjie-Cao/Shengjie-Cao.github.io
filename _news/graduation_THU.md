@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from Tsinghua University and achieved Bachelor's degree in Electronics Engineering.
+Graduated from Tsinghua University and received Bachelor's degree in Electronics Engineering.
