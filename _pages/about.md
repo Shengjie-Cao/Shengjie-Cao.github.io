@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: School of Integrated Circuits <br> Peking  University
+subtitle: [School of Integrated Circuits](https://ic.pku.edu.cn/)<br>[Peking University](https://www.pku.edu.cn/)
 
 profile:
   align: right
