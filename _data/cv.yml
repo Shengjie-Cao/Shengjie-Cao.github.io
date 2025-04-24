@@ -42,7 +42,7 @@
   type: time_table
   contents:
     - title: Algorithm Intern
-      institution: Megvii Technology
+      institution: <a href="https://www.megvii.com/">Megvii Technology</a>
       year: 2021
       description:
         - Computer Vision
