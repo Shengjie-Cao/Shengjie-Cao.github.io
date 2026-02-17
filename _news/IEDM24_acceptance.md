@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One <b>authored</b> paper has been accepted by <b>IEDM 2024</b>.
+One <b>co-first-authored</b> paper has been accepted by <b>IEDM 2024</b> (worked with Zhiyuan Fu).
