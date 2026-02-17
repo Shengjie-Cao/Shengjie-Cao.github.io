@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One <b>authored</b> paper has been accepted by <b>Silicon Nanoelectronics Workshop (SNW) 2025</b>.
+One <b>first-authored</b> paper has been accepted by <b>Silicon Nanoelectronics Workshop (SNW) 2025</b>.
