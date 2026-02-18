@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One co-authored paper has been accepted in <b>IEEE TED</b> (worked with Zhiyuan Fu).
+One co-authored paper has been accepted in <b>IEEE TED</b> (collaborated with Zhiyuan Fu).

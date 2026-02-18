@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One <b>authored</b> and two involved papers have been accepted by <b>EDTM 2025</b>.
+One <b>first-authored</b> and two involved papers have been accepted by <b>EDTM 2025</b>.

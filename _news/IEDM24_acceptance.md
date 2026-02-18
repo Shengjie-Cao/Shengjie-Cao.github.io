@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One <b>co-first-authored</b> paper has been accepted by <b>IEDM 2024</b> (worked with Zhiyuan Fu).
+One <b>co-first-authored</b> paper has been accepted by <b>IEDM 2024</b> (collaborated with Zhiyuan Fu).
