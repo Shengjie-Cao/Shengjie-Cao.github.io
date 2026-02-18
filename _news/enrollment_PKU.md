@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Enrolled in Peking University to pursue doctoral degree in Integrated Circuits.
+Enrolled in Peking University to pursue doctoral degree in School of Integrated Circuits.

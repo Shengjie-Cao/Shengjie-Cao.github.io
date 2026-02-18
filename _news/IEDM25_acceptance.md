@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One co-authored paper has been accepted by <b>IEDM 2024</b> (collaborated with Weikai Xu).
+One co-authored paper has been accepted by <b>IEDM 2025</b> (collaborated with Weikai Xu).

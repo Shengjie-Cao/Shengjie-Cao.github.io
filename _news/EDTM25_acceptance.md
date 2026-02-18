@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One <b>first-authored</b> and two involved papers have been accepted by <b>EDTM 2025</b>.
+One <b>first-authored</b> and two co-authored papers have been accepted by <b>EDTM 2025</b> (collaborated with Minyue Deng and Shaodi Xu).
