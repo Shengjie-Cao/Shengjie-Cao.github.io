@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One <b>co-first-authored</b> paper and one co-authored paper have been accepted by <b>IEDM 2026</b> (collaborated with Lingxuan Zou, and Bingrui Song).
+One <b>first-authored</b> paper (collaborated with Lingxuan Zou) and one co-authored paper (collaborated with Bingrui Song) have been accepted by <b>IEDM 2026</b>.
