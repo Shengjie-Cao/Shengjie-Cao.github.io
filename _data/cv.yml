@@ -15,7 +15,7 @@
       institution: School of Integrated Circuits, Peking University
       year: 2022 - present
       description:
-        - Research Interests - Novel memory and storage system designs, ferroelectric-based computing-in-memory accelerations
+        - Research Interests - ferroelectric memory device, design-technology co-optimization, 3D scaling architecture design, ferroelectric-based computing-in-memory
         - Advisor - <a href="http://scholar.pku.edu.cn/qianqianhuang">Prof. Qianqian Huang</a>
         # - title: Description 3.
          # contents:
@@ -31,6 +31,8 @@
 - title: Representative Works
   type: time_table
   contents:
+    - items: '"Highly Reliable Ferroelectric HZO with Record 2Pr of 75μC/cm2 and Quasi-rectangular P-V through in-situ Field-directed c-axis-oriented o-phase Crystallization at Low-Temperature (≤200℃)", IEEE IEDM 2026'
+      year: Dec 2026
     - items: '"Hafnia-based XP-FeRAM: A Novel High-speed and Low-power Cross-point Ferroelectric Memory for Data-intensive Applications", IEEE EDTM 2025 (Invited)'
       year: Mar 2025
     - items: '"Comprehensive Performance Re-assessment of Hafnia-based Cross-point FeRAM with Ultra-fast and Low-power Operation from Device/Array Perspective", IEEE IEDM 2024'
