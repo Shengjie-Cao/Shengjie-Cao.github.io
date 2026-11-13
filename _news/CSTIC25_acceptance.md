@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One co-authored paper has been accepted by <b>CSTIC 2025</b> (collaborated with Runze Han).
+One co-authored paper has been accepted to <b>CSTIC 2025</b> (first-authored by Runze Han).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One co-authored paper has been accepted in <b>IEEE EDL</b> (collaborated with HKUST-GZ).
+One co-authored paper has been accepted in <b>IEEE EDL</b> (led by HKUST-GZ).

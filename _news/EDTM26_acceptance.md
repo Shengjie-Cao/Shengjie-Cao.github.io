@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One co-authored paper has been accepted by <b>EDTM 2026</b> (collaborated with Zebin Zhang).
+One co-authored paper has been accepted to <b>EDTM 2026</b> (first-authored by Zebin Zhang).

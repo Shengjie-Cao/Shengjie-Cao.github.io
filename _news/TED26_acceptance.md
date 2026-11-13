@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One co-authored paper has been accepted in <b>IEEE TED</b> (collaborated with Weikai Xu).
+One co-authored paper has been accepted in <b>IEEE TED</b> (first-authored by Weikai Xu).
